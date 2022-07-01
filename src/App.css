@@ -60,12 +60,11 @@ body {
   align-items: center;
   height: 582px;
   font-size: 4.6vh;
-  /* border: 1px solid red; */
-  font-family: 'Forum', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 
 .button {
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Poppins', sans-serif;
   position: relative;
   outline: none;
   text-decoration: none;
@@ -86,8 +85,8 @@ body {
 
 .button span {
   color: #023a47;
-  font-size: 12px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
   letter-spacing: 0.7px;
 }
 
