@@ -10,4 +10,5 @@ APIs : Advice Slip JSON API.
 
 Website-link : https://quotes-advisor.netlify.app/
 
-![Screenshot (379)](https://user-images.githubusercontent.com/89103644/176757906-47e773af-048c-461e-99b6-cdae9cc40be6.png)
+
+![Screenshot (394)](https://user-images.githubusercontent.com/89103644/176832811-da5d9fce-5c37-4358-97ad-a1bb87a5197a.png)
