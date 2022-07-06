@@ -78,7 +78,7 @@ body {
   width: 210px;
   opacity: 1;
   background-color: #ffffff;
-  border: 2px solid rgba(3, 48, 70, 0.6);
+  border: 2px solid rgb(3 48 70 / 29%);
 
   background-color: rgba(182, 227, 236, 0.32);
 }
@@ -139,5 +139,18 @@ body {
   .card {
     width: 80%;
     height: 30%;
+  }
+  .heading {
+    font-size: 17px;
+  }
+  .button span {
+    height: 17px;
+    /* width: 18px; */
+    font-size: 13px;
+  }
+  .button {
+    height: 111px;
+    width: 172px;
+    margin-bottom: 10px;
   }
 }
