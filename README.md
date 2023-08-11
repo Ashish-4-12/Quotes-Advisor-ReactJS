@@ -5,7 +5,9 @@ I have used React on the front end and we'll make get requests to Advice Slip JS
 It is a responsive webpage where you will get different quotes, whenever you click on the button, new quotes will be shown on the screen.
 
 **Languange Used**: HTML, CSS, ReactJS.
+
 **Software Used:** VS Code.
+
 **APIs:** Advice Slip JSON API.
 
 **Website-link:** https://quotes-advisor.netlify.app/
